@@ -1,0 +1,12 @@
+*.py[co]
+*.sw[po]
+*~
+*.log
+
+/secrets.json
+/media/
+/tmp/
+/.sass-cache/
+
+/django_dist_resources/
+db.sqlite3
